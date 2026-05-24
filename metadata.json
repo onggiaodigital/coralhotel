@@ -1,0 +1,6 @@
+{
+  "name": "Coral Hotel Management",
+  "description": "Hệ thống quản lý khách sạn Coral Hotel hiện đại: quản lý phòng, đặt phòng, dịch vụ đi kèm, khách hàng thân thiết và báo cáo doanh thu chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
